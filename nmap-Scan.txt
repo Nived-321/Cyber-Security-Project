@@ -1,0 +1,11 @@
+Nmap Scan Report
+Target: Localhost (127.0.0.1)
+Command Used:
+nmap -sS 127.0.0.1
+Open Ports:
+- 80 (HTTP)
+- 443 (HTTPS)
+Observation:
+Basic scan performed to identify open ports and services.
+Conclusion:
+System has active web services running.

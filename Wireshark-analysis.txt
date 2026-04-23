@@ -1,0 +1,12 @@
+Wireshark Analysis Report
+Objective:
+Analyze network traffic using Wireshark.
+Steps:
+- Captured network packets
+- Filtered HTTP traffic
+- Observed packet details
+Findings:
+- Identified basic request and response packets
+- Observed communication between client and server
+Conclusion:
+Wireshark helps in analyzing real-time network traffic and detecting anomalies.
